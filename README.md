@@ -13,7 +13,7 @@
   <li>K Means Clustering</li>
   <li>Decision Trees</li>
   <li>Random Forest</li>
-  <li>ANN - MultiLayer Perceptron</li>
+  <li>Artificial Neural Networks - MultiLayer Perceptron</li>
   <li>Principle Component Analysis</li>
   <li>Adaboost</li>
 </ol>
